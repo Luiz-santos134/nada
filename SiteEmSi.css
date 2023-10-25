@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.linhas{
+    position: absolute;
+    color: aqua;
+    top: 7%;
+    left: 0.5%;
+}
+
+.header-list a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    transition: all .3s;
+}
+
+.header-list{
+    position: absolute;
+    display: flex;
+    gap: 10%;
+    left: 4vw;
+    top: 7.6%;
+}
+
+.header-list a:hover{
+    color: #98d1e5;
+}
+
+.titulo{
+    background-color: aqua;
+    border-radius: 8vw;
+    text-align: center;
+    font-size: large;
+}
+
+#meuIframe{
+    position: absolute;
+    top: 5.5vw;
+    left: 0.69vw;
+}

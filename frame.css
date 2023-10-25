@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+.logo{
+    background-color: rgb(23, 102, 167);
+    border-radius: 1vw;
+}
+.membros{
+    color: rgb(23, 102, 255);
+}
